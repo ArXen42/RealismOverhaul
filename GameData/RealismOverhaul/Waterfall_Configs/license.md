@@ -30,3 +30,8 @@ The following files are from [Katniss's Parts Pack](https://github.com/Katniss21
 * `_Audio/Clips/sound_srb4_enhanced.ogg`
 * All files under `_Templates/hybrid`
 * All files under `_Templates/katniss`
+
+The following templates are modified from templates shipped with [Stock Waterfall Effects](https://github.com/KnightofStJohn/StockWaterfallEffects), licensed CC BY-NC-SA 4.0. They are distributed here under the same license.
+
+* `_Templates/rowaterfall-turbojet-afterburner.cfg`
+* `_Templates/rowaterfall-ramjet.cfg`
